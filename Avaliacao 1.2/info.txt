@@ -1,0 +1,2 @@
+O arquivo "Teste as Funções.exe" foi compilado
+para a o Sistema Operacional Windows.
