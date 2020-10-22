@@ -29,13 +29,7 @@ int main(){
 
     printf("Numero em Binario: ");
 
-    if(numero != 0){
-        converterParaBinario(numero);
-        printf("\n");
-    }
-    else{
-        printf("0\n");
-    }
+    converterParaBinario(numero);
 
     return 0;
 }
@@ -46,6 +40,6 @@ void converterParaBinario(int numero){
         printf("%i", numero%2);
     }
     else{
-        return;
+        printf("0");
     }
 }

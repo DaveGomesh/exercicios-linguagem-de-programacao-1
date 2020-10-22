@@ -36,9 +36,9 @@ int main(){
 
             }
             else{
-                // Colocando 'printf("-");' pode se ver melhor como a piramide foi
+                // Colocando 'printf("-");' pode se ver melhor como a piramide foi montada
                 // printf("-");
-                printf("-");
+                printf(" ");
             }
         }
         printf("\n");
